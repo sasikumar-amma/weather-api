@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # weatherapi
 =======
 # weather-api
@@ -7,3 +8,6 @@
 =======
 # weather-api
 >>>>>>> 9dfa1098bb4f7c7c06f244f372590a568ca6509b
+=======
+# weather-api
+>>>>>>> 8fe178d2674bda7af7e31260b1ebb377dbf34532
